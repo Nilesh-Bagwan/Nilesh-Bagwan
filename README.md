@@ -1,13 +1,13 @@
 # Hi there, I'm Nilesh! 👋
 
-I'm a **Software Associate** with a passion for building **efficient, scalable, and clean applications**.  
-I started my journey in tech as an intern back in **April 2022**, and since **November 2022**, I've been growing my skills and contributing to exciting projects at **ABC Company**.
+I'm a **Software Developer** with a passion for building **efficient, scalable, and clean applications**.  
+I started my journey in tech as an intern back in **April 2022**, and since **November 2022**, I've been growing my skills and contributing to exciting projects.
 
 ---
 
 ## 🚀 Tech Stack
 - **Languages:** PHP, Java, JavaScript, SQL  
-- **Frameworks & Tools:** Yii2, Bootstrap, REST APIs, DynamoDB, MySQL, Git  
+- **Frameworks & Tools:** Vue, Nuxt, React, Yii2, Bootstrap, Taiwind, REST APIs, DynamoDB, MySQL, Git  
 - **Cloud & Integrations:** Google Calendar API, Microsoft Calendar API  
 - **Other Skills:** API design, automation scripts, and performance optimization  
 
@@ -30,7 +30,7 @@ I started my journey in tech as an intern back in **April 2022**, and since **No
 
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/nilesh-bagwan](#)
-- **Email:** your.email@example.com  
+- **Email:** bagwannilesh@gmail.com  
 - **Portfolio/Website:** [Coming Soon 🚧]  
 
 ---
